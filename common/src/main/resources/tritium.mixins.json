@@ -55,8 +55,7 @@
     "memory.client.leakfix.ScreenshotByteBufferLeakFixMixin",
     "occfix.ArrayOcclusionCacheMixin",
     "sodium.SodiumOptionsGUIMixin",
-    "sodium.SodiumOptionsGUIAccessor",
-    "crash.CrashReportMixin"
+    "sodium.SodiumOptionsGUIAccessor"
   ],
   "server": [],
   "injectors": {
