@@ -4,6 +4,8 @@
 An all-in-one optimization mod dedicated to improving client-side rendering performance and server-side stability.
 This project is actively under development. Track progress at the [TODO List](TODO.md).
 
+Discord: https://discord.gg/H7RqfGCa
+
 <h2 align="center">Features</h2>
 
 - **[All Versions]** Fast Language Switching: Dramatically speeds up language switching by intercepting resource bundle
